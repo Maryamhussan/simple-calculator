@@ -1,0 +1,21 @@
+{
+  "name": "@maryamhussain/simple-calculator",
+  "version": "1.0.3",
+  "description": "it is a simple calculator with typescript,node.js and inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maryam Hussain",
+  "license": "ISC",
+  "dependencies": {
+    "@maryamhussain/simple-calculator": "^1.0.3",
+    "inquirer": "^9.2.16",
+    "simple-calculator.maryam": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
